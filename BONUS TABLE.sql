@@ -1,0 +1,5 @@
+CREATE TABLE BONUS
+        (ENAME VARCHAR(10),
+         JOB   VARCHAR(9),
+         SAL   NUMERIC,
+         COMM  NUMERIC);
